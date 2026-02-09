@@ -19,6 +19,7 @@ I focus on network security, open-source intelligence, and automating routine ta
 - **Penetration Testing Labs**: PortSwigger & TryHackMe active learner.
 
 #### 📫 Connect with me
-- [YouTube Channel](https://www.youtube.com/@DemetriusHuron)
+- [Telegram Channel](https://t.me/huron_group)
+- [YouTube Channel](https://www.youtube.com/@DemetriusHuron) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemetriusHuron&show_icons=true&theme=dark)
