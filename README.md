@@ -20,6 +20,5 @@ I focus on network security, open-source intelligence, and automating routine ta
 
 #### 📫 Connect with me
 - [Telegram Channel](https://t.me/huron_group)
-- [YouTube Channel](https://www.youtube.com/@DemetriusHuron) 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DemetriusHuron&show_icons=true&theme=dark)
